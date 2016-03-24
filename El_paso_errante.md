@@ -1,156 +1,78 @@
-El paso errante 
+<h1>El paso errante</h1>
 
 Pedro Emilio Coll 
 
-cuentos imaginarios 
+<h2>Cuentos imaginarios</h2>
 
-
-
-El sueño de una noche de lluvia 
+<h3>El sueño de una noche de lluvia<h3>
 
 Caía la lluvia con estrépito sobre los tejados y en el zinc de las canales cantaba el agua.
 
 Cada vez que llueve y la calle se convierte en un río, me vuelvo a ver niño, echando en el arroyuelo barquichuelos de papel. Mis primeros viajes ideales los hice en esas ligeras embarcaciones que van ciudad abajo arrastradas por la corriente; pero los libros que entonces leía me hablaban de islas maravillosas, de países fantásticos, y hacia ellos navegaba mi imaginación en la frágil navecilla, sin pensar que una piedra bastase para detenerla y que en un charco pudiera naufragar una carga de ensueños.
 
-Mientras me acurrucaba entre mis recuerdos y las frazadas de la cama, la nota armoniosa del agua en las canales me iba adormeciendo… 
+Mientras me acurrucaba entre mis recuerdos y las frazadas de la cama, la nota armoniosa del agua en las canales me iba adormeciendo…
 
+Ahora me encontraba, no en un bote de papel, sino en una negra galera empujada por un viento glacial. Juntos estábamos hombres de razas diferentes, pero movidos por una misma inquietud. Íbamos en peregrinación al Castillo de Elsinor, que es uno de los sitios más amados de la tierra, por haber oído los soliloquios del príncipe Hamlet y presenciado el fin de sus días juveniles. 
 
-Ahora me encontraba, no en un bote de papel, sino en una negra galera empujada por un viento glacial. Juntos estábamos hombres de razas diferentes, pero movidos por una misma inquietud. Íbamo sen peregrinación al Castillo de Elsinor, que es uno de los sitios 
-más amados de la tierra, por haber oído los soliloquios del príncipe Hamlet y presenciado el fin de sus días juveniles. 
+Para prepararnos a visitar dignamente aquellos santos lugares de la meditación, habíamos arreglado nuestra vida según una disciplina conventual y nos llamábamos hermanos. Los escépticos, los analistas del alma humana, los humoristas que creen en una tontería universal y se ríen de ella con lágrimas en los ojos, eran con frecuencia el tema de nuestros coloquios y ejercicios espirituales. En el refectorio una calavera contemplaba a una Esfinge, sin que por ello dejáramos de comer con apetito.
 
+Los domingos nos congregábamos en una sala ojival, adornada con símbolos religiosos y preciosas obras de arte; y allí muy cómodamente sentados, cerrábamos los párpados para escuchar la música del órgano, con la que cada cual componía en su mente un paisaje o un espectáculo, mientras el mar continuaba la canción que por los siglos de los siglos dirigen al cielo las innumerables olas.
 
-El paso errante 
+Cuando me di cuenta de la extraña reunión en que me hallaba, un hermano de mirada tenebrosa, terminaba así una homilía:
 
-Para prepararnos a visitar dignamente aquellos santos lugaresde la meditación, habíamos arreglado nuestra vida según una disciplina 
-conventual y nos llamábamos hermanos. Los escépticos, losanalistas del alma humana, los humoristas que creen en una tontería 
-universal y se ríen de ella con lágrimas en los ojos, eran confrecuencia el tema de nuestros coloquios y ejercicios espirituales. Enel refectorio una calavera contemplaba a una Esfinge, sin que porello dejáramos de comer con apetito.
+Un amigo, muy investigador y erudito, discípulo entusiastade la escuela antropológica, ha descubierto que el divino Homero fue un precursor de César Lombroso, pues según parece, un feroz cacique o generalote está descrito en la <i>Ilíada</i> con todos los estigmas que se le atribuyen al criminal nato. Moisés, según el decir de personas entendidas en estos asuntos, fue un darwinista anterior a Darwi, puesto que la famosa lucha por la existencia está incluida en el ojo por ojo, diente por diente, y la ley de la herencia proclamada en el tremendo aforismo de que las faltas de los padres caerán sobre los hijos hasta la cuarta y quinta generación. De tal manera, que la historia de los Rougon-Macquart, narrada por Zola, no vienea ser sino una nota marginal a la Biblia, un comentario a la frase del inmisericorde legislador.
 
-Los domingos nos congregábamos en una sala ojival, adornadacon símbolos religiosos y preciosas obras de arte; y allí muy cómodamente 
-sentados, cerrábamos los párpados para escuchar la músicadel órgano, con la que cada cual componía en su mente un paisaje oun espectáculo, mientras el mar continuaba la canción que por los 
-siglos de los siglos dirigen al cielo las innumerables olas.
-
-Cuando me di cuenta de la extraña reunión en que me hallaba,
-un hermano de mirada tenebrosa, terminaba así una homilía:
-
-Un amigo, muy investigador y erudito, discípulo entusiastade la escuela antropológica, ha descubierto que el divino Homerofue un precursor de César Lombroso, pues según parece, un ferozcacique o generalote está descrito en la Ilíada con todos los estigmas 
-que se le atribuyen al criminal nato. Moisés, según el decir depersonas entendidas en estos asuntos, fue un darwinista anterior aDarwin, puesto que la famosa lucha por la existencia está incluidaen el ojo por ojo, diente por diente, y la ley de la herencia proclamada 
-en el tremendo aforismo de que las faltas de los padres caeránsobre los hijos hasta la cuarta y quinta generación. De tal manera,
-que la historia de los Rougon-Macquart, narrada por Zola, no vienea ser sino una nota marginal a la Biblia, un comentario a la frase delinmisericorde legislador.
-
-¿Qué diríais ahora vosotros, de un libro titulado Un dedo de la 
-luna purpurado por el sol poniente? Lo atribuiríais a algún moderno“decadente”. Pues bien, ese libro ha sido compuesto muchos siglos 
-antes de Jesuscristo, y forma la sexta parte de la gran obra sánscritaLa Ola del Océano del Tiempo. Un viajero inglés, recibió de manos deun viejo brahamán, muerto de la peste, el manuscrito original, y loha traducido, permitiendo así que nosotros, los que no hablamos lalengua del dulce Sakiamuni, podamos aspirar el aroma del loto quese desprende de esas leyendas asiáticas. 
-
-
-El sueño de una noche de lluvia 
+¿Qué diríais ahora vosotros, de un libro titulado <i>Un dedo de la luna purpurado por el sol poniente?</i> Lo atribuiríais a algún moderno “decadente”. Pues bien, ese libro ha sido compuesto muchos siglos antes de Jesuscristo, y forma la sexta parte de la gran obra sánscrita <i>La Ola del Océano del Tiempo</i>. Un viajero inglés, recibió de manos de un viejo brahamán, muerto de la peste, el manuscrito original, y loha traducido, permitiendo así que nosotros, los que no hablamos la lengua del dulce Sakiamuni, podamos aspirar el aroma del loto que se desprende de esas leyendas asiáticas. 
 
 Escuchad la que dice cómo fue creada la mujer:
 
-En el origen de los tiempos, Twashtri —el Vulcano de la mitología 
-india— creó el mundo. Pero cuando quiso crear la mujer,
-comprendió que había gastado en el hombre todas las materias disponibles. 
-No le restaba ningún elemento sólido. Entonces Twashtri,
-perplejo, se abismó en una meditación profunda, y no salió de ellasino para proceder de este modo: tomó la redondez de la luna y laondulación de la serpiente; el suave abrazo de las plantas trepadorasy la cadencia de los mimbres; la esbeltez del rosal y el terciopelo delas flores; la ligereza de las hojas, la mirada del cervatillo, la alegríaloca del rayo de sol, las lágrimas de las nubes, la inconstancia delviento, la timidez de la liebre, el orgullo del pavo real, la dulzura delas plumas que guarnecen el cuello de las palomas, la dureza del diamante, 
-el gusto azucarado de la miel, la crueldad del tigre, el calordel fuego, la frialdad del hielo, el chillido del búho y el susurro dela tórtola. Mezcló todas estas cosas, hizo a la Mujer, y entregó eldivino presente al Hombre.
+En el origen de los tiempos, Twashtri —el Vulcano de la mitología india— creó el mundo. Pero cuando quiso crear la mujer, comprendió que había gastado en el hombre todas las materias disponibles. No le restaba ningún elemento sólido. Entonces Twashtri, perplejo, se abismó en una meditación profunda, y no salió de ella sino para proceder de este modo: tomó la redondez de la luna y la ondulación de la serpiente; el suave abrazo de las plantas trepadoras y la cadencia de los mimbres; la esbeltez del rosal y el terciopelo de las flores; la ligereza de las hojas, la mirada del cervatillo, la alegría loca del rayo de sol, las lágrimas de las nubes, la inconstancia del viento, la timidez de la liebre, el orgullo del pavo real, la dulzura de las plumas que guarnecen el cuello de las palomas, la dureza del diamante, el gusto azucarado de la miel, la crueldad del tigre, el calor del fuego, la frialdad del hielo, el chillido del búho y el susurro de la tórtola. Mezcló todas estas cosas, hizo a la Mujer, y entregó el divino presente al Hombre.
 
-Ocho días después, el Hombre se presentó ante Twashtri, y ledijo:
+Ocho días después, el Hombre se presentó ante Twashtri, y le dijo:
 
-—Señor, la criatura que me has donado emponzoña mi existencia: 
-murmura sin cesar, ocupa todo mi tiempo, llora por tonterías, 
-está siempre enferma. He venido a ti a fin de que la recuperes,
-porque no puedo vivir con ella.
+—Señor, la criatura que me has donado emponzoña mi existencia: murmura sin cesar, ocupa todo mi tiempo, llora por tonterías, está siempre enferma. He venido a ti a fin de que la recuperes, porque no puedo vivir con ella.
 
-Y Twashtri llamó a su lado la Mujer. Pero ocho días después elHombre volvió ante el Creador, y le dijo:
+Y Twashtri llamó a su lado la Mujer. Pero ocho días después el Hombre volvió ante el Creador, y le dijo:
 
-—Señor, mi vida es muy solitaria desde que te he devuelto estacriatura; recuerdo que bailaba y cantaba en mi presencia, que memiraba tiernamente y me abrazaba…
+—Señor, mi vida es muy solitaria desde que te he devuelto esta criatura; recuerdo que bailaba y cantaba en mi presencia, que me miraba tiernamente y me abrazaba…
 
-Y Twashtri entregó de nuevo la Mujer al Hombre. Apenashabían transcurrido tres días, cuando Twashtri vio llegar al Hombre,
-quien así se expresó:
+Y Twashtri entregó de nuevo la Mujer al Hombre. Apenas habían transcurrido tres días, cuando Twashtri vio llegar al Hombre, quien así se expresó:
 
-—Señor; no sé cómo es esto; pero estoy convencido de que laMujer me procura más disgustos que placeres. Señor, te suplico,
-tómala para ti.
+—Señor; no sé cómo es esto; pero estoy convencido de que la Mujer me procura más disgustos que placeres. Señor, te suplico, tómala para ti.
 
-Mas Twashtri le gritó: “¡Apártate de mí, Hombre, y haz lo quepuedas!”. El hombre contestó: “No puedo vivir con ella”. A lo queTwashtri replicó: “Tampoco podrías vivir sin ella”. 
+Mas Twashtri le gritó: “¡Apártate de mí, Hombre, y haz lo que puedas!”. El hombre contestó: “No puedo vivir con ella”. A lo que Twashtri replicó: “Tampoco podrías vivir sin ella”. 
 
--11
+El Hombre se retiró pesaroso; y gimiendo decía: ¡Pobre de mí, no puedo vivir con ella y no puedo vivir sin ella!
 
+A mi juicio, este simbolista o “decadente” sánscrito de ahora tres mil años, autor de <i>Un dedo de la luna purpurado por el sol poniente,</i> era también un psicólogo feminista a la manera de nuestra época. No es difícil reconocer bajo el traje moderno del Adolfo de Benjamin Constant, del Claudio Larcher de Bourget, con su <i>Fisiología del amor moderno</i>, del Jorge Aurispa de D’ Annunzio, en la historia de muchos de nuestros contemporáneos, al mismo Hombre que en el origen del mundo fue varias veces ante Twashtri, creador de todas las cosas y padre del linaje humano. <i>Nihil novum sub sole… </i>
 
-
-El paso errante 
+Calló el predicador y hubo un murmullo de incredulidad en elauditorio; pero nadie estaba de humor para discutir, y nos retiramos pensativos a nuestras celdas o camarotes.
 
-El Hombre se retiró pesaroso; y gimiendo decía: ¡Pobre de mí,
-no puedo vivir con ella y no puedo vivir sin ella!
+Otro día se planteó una inoportuna cuestión, impropia de aquella asamblea de personas despreocupadas de los problemas de actualidad 
+y que convertía tan quiméricos seres en personajes de la comedia política. Las leyes son siempre impracticables en el momento 
+mismo en que cerebros superiores las conciben y enuncian, tal era la cuestión en debate. Cuando una ley penetra en el corazón de la masa, otra más perfecta viene a sustituirla; las leyes no sirven sino para la orientación de los grandes rebaños sociales conducidos 
+por unos cuantos pastores; lo que nombramos conciencia del pueblono es sino el pensamiento de esos pastores; lo que llamamos progreso se realiza por una serie de afirmaciones prefijadas y a menudo arbitrarias, que cuatro o cinco pensadores imponen en una época para la época que ha de venir.
 
-A mi juicio, este simbolista o “decadente” sánscrito de ahoratres mil años, autor de Un dedo de la luna purpurado por el sol poniente,
-era también un psicólogo feminista a la manera de nuestra época.
-No es difícil reconocer bajo el traje moderno del Adolfo de Benjamin 
-Constant, del Claudio Larcher de Bourget, con su Fisiología del 
-amor moderno, del Jorge Aurispa de D’ Annunzio, en la historia demuchos de nuestros contemporáneos, al mismo Hombre que en el 
-origen del mundo fue varias veces ante Twashtri, creador de todas 
-las cosas y padre del linaje humano. Nihil novum sub sole… 
+En los interminables días comenzaba a aburrirme y a sentir la ausencia de esa amable compañera que Twashtri creó para el hombre y que un filósofo de pésimo gusto ha llamado el animal de larga cabellera y corto entendimiento. Envidiaba ya a los que no tuvieron el capricho de acompañarnos en tan penoso y largo viaje, alos amigos que a esa hora, en la mesa del café y frente a los rubiosvasos de cerveza, ensayaban el método de una refinada antropofagia devorándose, literariamente, unos a otros; envidiaba al mozo decordel y al labriego que, sin vanas preocupaciones, labra la tierra yprocura cumplir el precepto de crecer y multiplicarse. 
 
-Calló el predicador y hubo un murmullo de incredulidad en elauditorio; pero nadie estaba de humor para discutir, y nos retiramospensativos a nuestras celdas o camarotes.
+Por fin un compañero que hasta entonces había guardado un irónico mutismo, reuniéndonos en la sala de fumar, decidió de nuestra suerte con estas palabras, no poco irreverentes de la inmortal tragedia.
 
-Otro día se planteó una inoportuna cuestión, impropia de aquella 
-asamblea de personas despreocupadas de los problemas de actualidad 
-y que convertía tan quiméricos seres en personajes de lacomedia política. Las leyes son siempre impracticables en el momento 
-mismo en que cerebros superiores las conciben y enuncian,
-tal era la cuestión en debate. Cuando una ley penetra en el corazónde la masa, otra más perfecta viene a sustituirla; las leyes no sirvensino para la orientación de los grandes rebaños sociales conducidos 
-por unos cuantos pastores; lo que nombramos conciencia del pueblono es sino el pensamiento de esos pastores; lo que llamamos progreso 
-se realiza por una serie de afirmaciones prefijadas y a menudoarbitrarias, que cuatro o cinco pensadores imponen en una épocapara la época que ha de venir.
+Tengo que confiaros el secreto que he encontrado en un viejo manuscrito. El gran Will, que nos refiere la historia de nuestro muy amado hermano Hamlet, o fue víctima de una engañosa leyenda oha querido engañarnos. El manuscrito a que me refiero es una confesión de Marcelo, el amigo íntimo de Hamlet, y debe merecernos la más completa fe.
 
-En los interminables días comenzaba a aburrirme y a sentirla ausencia de esa amable compañera que Twashtri creó para elhombre y que un filósofo de pésimo gusto ha llamado el animal delarga cabellera y corto entendimiento. Envidiaba ya a los que no tuvieron 
-el capricho de acompañarnos en tan penoso y largo viaje, alos amigos que a esa hora, en la mesa del café y frente a los rubiosvasos de cerveza, ensayaban el método de una refinada antropofagia 
-devorándose, literariamente, unos a otros; envidiaba al mozo decordel y al labriego que, sin vanas preocupaciones, labra la tierra yprocura cumplir el precepto de crecer y multiplicarse. 
+Ello es que Marcelo, quien dicho sea de paso, era de un temperamento sanguíneo y activo, sufría de que su querido camarada y condiscípulo hubiera perdido entre las divagaciones de la Universidad de Wittemberg, junto con la salud, el amor a la vida y a lasempresas dignas de su rango. Ni el esplendor del trono, ni el talle ondulante de las damas de honor, ni las fiestas de la corte, lograban sacudir del alma del Príncipe enlutado y meditabundo el duelo y la inacción. En su corazón no había espacio sino para el recuerdo paternal, y en su mente para las divagaciones metafísicas.
 
--12
+Sabía Marcelo que Hamlet, tan incrédulo y casi herético, creía sin embargo en las visiones de ultratumba, y fue esa superstición del Príncipe la que puso en juego para sugerirle el culto de la fuerza, o un motivo de vivir, como decimos ahora. Un criado de Marcelo se prestó para llevar a cabo el funesto proyecto que tantas desgracias y muertes trajo consigo.
 
+En la oscuridad de una noche sin luna, el criado de Marcelo, armado de punta en blanco, aparecióse a Hamlet en la plataforma del Castillo y fingiéndose el espectro del viejo Rey, con voz sepulcral, le aconsejó la oprobiosa venganza.
 
-
-El sueño de una noche de lluvia 
+Lanzado en el camino de la acción procedió Hamlet con la intemperancia o injusticia que ya sabéis. Sobre este punto hace Mauricio Maeterlink un duro comentario: ¿Se necesita acaso de un esfuerzo sobrehumano —pregunta— para reconocer que la venganza no es un deber? Hamlet piensa mucho, pero no es un sabio colocad en su lugar a un Marco Aurelio y el destino se hubiera estrellado contra la bondad, la confianza, la indulgencia que están en las más altas cimas de la sabiduría. 
 
-Por fin un compañero que hasta entonces había guardado unirónico mutismo, reuniéndonos en la sala de fumar, decidió denuestra suerte con estas palabras, no poco irreverentes de la inmortal 
-tragedia.
+De todas maneras, Hamlet es nuestro hermano, más por su vida interior que por sus gestos trágicos. La colección de sus soliloquios,
+de sus diálogos con los sepultureros y los cómicos, sus respuestas a los cortesanos y a la misma Ofelia, constituyen un precioso breviario en nuestra iglesia. Marcelo erró como todo ser que quiere disponer del destino de otro ser y decidirlo a obrar en contra de su propia naturaleza; en fin, yo prefiero que haya sido un criado y no el propio espectro del Rey quien dictase la venganza, porque debemos suponer que los muertos saben más que los vivos, la consecuencia de los actos humanos. 
 
-Tengo que confiaros el secreto que he encontrado en un viejomanuscrito. El gran Will, que nos refiere la historia de nuestro muyamado hermano Hamlet, o fue víctima de una engañosa leyenda oha querido engañarnos. El manuscrito a que me refiero es una confesión 
-de Marcelo, el amigo íntimo de Hamlet, y debe merecernos 
-la más completa fe.
+Por último, hermanos, este viaje que hacemos al Castillo de Elsinor me parece del todo innecesario. Para meditar nos basta con el asilo profundo del alma, con nuestro Castillo Interior, que tiene criptas sonoras, fuentes que cantan en el silencio, bellos horizontes a su rededor, y desde donde se contempla la tierra y se divisa el cielo…
 
-Ello es que Marcelo, quien dicho sea de paso, era de un temperamento 
-sanguíneo y activo, sufría de que su querido camaraday condiscípulo hubiera perdido entre las divagaciones de la Universidad 
-de Wittemberg, junto con la salud, el amor a la vida y a lasempresas dignas de su rango. Ni el esplendor del trono, ni el talleondulante de las damas de honor, ni las fiestas de la corte, lograbansacudir del alma del Príncipe enlutado y meditabundo el duelo y lainacción. En su corazón no había espacio sino para el recuerdo paternal, 
-y en su mente para las divagaciones metafísicas.
-
-Sabía Marcelo que Hamlet, tan incrédulo y casi herético, creíasin embargo en las visiones de ultratumba, y fue esa superstición delPríncipe la que puso en juego para sugerirle el culto de la fuerza, oun motivo de vivir, como decimos ahora. Un criado de Marcelo seprestó para llevar a cabo el funesto proyecto que tantas desgracias ymuertes trajo consigo.
-
-En la oscuridad de una noche sin luna, el criado de Marcelo,
-armado de punta en blanco, apareciose a Hamlet en la plataformadel Castillo y fingiéndose el espectro del viejo Rey, con voz sepulcral, 
-le aconsejó la oprobiosa venganza.
-
-Lanzado en el camino de la acción procedió Hamlet con laintemperancia o injusticia que ya sabéis. Sobre este puno haceMauricio Maeterlink un duro comentario: ¿Se necesita acaso deun esfuerzo sobrehumano —pregunta— para reconocer que la venganza 
-no es un deber? Hamlet piensa mucho, pero no es un sabio;
-colocad en su lugar a un Marco Aurelio y el destino se hubiera estrellado 
-contra la bondad, la confianza, la indulgencia que están en lasmás altas cimas de la sabiduría. 
-
--13
-
-
-
-El paso errante 
-
-De todas maneras, Hamlet es nuestro hermano, más por su vidainterior que por sus gestos trágicos. La colección de sus soliloquios,
-de sus diálogos con los sepultureros y los cómicos, sus respuestas alos cortesanos y a la misma Ofelia, constituyen un precioso breviario 
-en nuestra iglesia. Marcelo erró como todo ser que quiere disponer 
-del destino de otro ser y decidirlo a obrar en contra de su propianaturaleza; en fin, yo prefiero que haya sido un criado y no el propioespectro del Rey quien dictase la venganza, porque debemos suponer 
-que los muertos saben más que los vivos, la consecuencia de los 
-actos humanos. 
-
-Por último, hermanos, este viaje que hacemos al Castillo de Elsinor 
-me parece del todo innecesario. Para meditar nos basta conel asilo profundo del alma, con nuestro Castillo Interior, que tienecriptas sonoras, fuentes que cantan en el silencio, bellos horizontes asu rededor, y desde donde se contempla la tierra y se divisa el cielo…
-
-De todas las bocas partió un clamor armonioso, que ya despierto 
-era sólo el de la nota de la lluvia en las canales y sobre los tejados 
-de la ciudad nocturna y pluviosa. 
+De todas las bocas partió un clamor armonioso, que ya despierto era sólo el de la nota de la lluvia en las canales y sobre los tejados de la ciudad nocturna y pluviosa. 
 
 -14
 
