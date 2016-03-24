@@ -4,7 +4,7 @@ Pedro Emilio Coll
 
 <h2>Cuentos imaginarios</h2>
 
-<h3>El sueño de una noche de lluvia<h3>
+<h3>El sueño de una noche de lluvia</h3>
 
 Caía la lluvia con estrépito sobre los tejados y en el zinc de las canales cantaba el agua.
 
